@@ -31,7 +31,7 @@ def show_not_on():
 
     print("getting")
     main_url = f"https://api-quiz.hype.space/shows/now?type="
-    headers = {"Authorization": f"Bearer {BEARER_TOKEN}",
+    headers = {"Authorization": f"Bearer {NzEwODAyMDcxMjI5ODI1MDY1.XsNtkg.F0rN8VnlhpMziT2PUhBk78Hl2q4}",
                "x-hq-client": "Android/1.3.0"}
     # "x-hq-stk": "MQ==",
     # "Connection": "Keep-Alive",
